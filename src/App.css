@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+body{
+	background-image:url('./bridge.png');
+}
+
+
+
+.login{
+      width: 500px;
+    margin: 0 auto;
+}
+
+.user-box{
+  margin: 5px;
+}
+.top-bar{
+  padding: 10px;
+    background-color: cornflowerblue;
+}
+
+.user{
+      background-color: transparent;
+}
+
+.card.col-sm-3.user-box {
+    max-width: 23%;
+}
+li {
+    list-style: none;
+}
